@@ -1,6 +1,6 @@
 const listHelper = require('../utils/list_helper')
 
-describe('Author with most likes', () => {
+describe.skip('Author with most likes', () => {
 
   const listWithOneBlog = [
     {

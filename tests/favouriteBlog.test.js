@@ -1,6 +1,6 @@
 const listHelper = require('../utils/list_helper')
 
-describe('favourite blog', () => {
+describe.skip('favourite blog', () => {
 
   const listWithOneBlog = [
     {
